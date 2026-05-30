@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', times, 'Times New Roman', Times, serif;
   background-color: #0A1628;
   color: #F8FFFE;
   overflow-x: hidden;
