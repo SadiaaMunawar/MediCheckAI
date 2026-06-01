@@ -18,7 +18,7 @@ An AI-powered symptom checker that understands your symptoms in plain language a
 |------|--------|
 | Sadia Munawar | [@SadiaaMunawar](https://github.com/SadiaaMunawar) |
 | Khudema Haroon | [@Khudema27](https://github.com/Khudema27) |
-| Shiza Riaz | @username |
+| Shiza Riaz | [@Shizariaz46](https://github.com/Shizariaz46) |
 
 
 ## ✨ Features
