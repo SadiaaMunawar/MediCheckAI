@@ -92,7 +92,8 @@ Frontend runs on: `http://localhost:3000`
 > 
 ## 🎥 Demo Video
 
-> 🔗 Video demo link will be added after recording.
+ 🔗 https://drive.google.com/file/d/1ZBXcnwtSawnS2AhqGtRgUL7NzLR3NaZV/view?usp=drive_link
+
 
 ## 📌 How It Works
 
